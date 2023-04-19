@@ -1,3 +1,6 @@
+body{
+    background-color:#ffa500!important
+}
 .white{color:#FFF!important}
 .bg-white{background-color:#FFF!important}
 .bg-white .card-footer,.bg-white .card-header{background-color:transparent}
